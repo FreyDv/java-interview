@@ -82,7 +82,7 @@ _Нормализация_ - это процесс преобразования 
 
 ## Какие существуют нормальные формы?
 
-<iframe width="560" height="315" src="https://youtu.be/0kq99Y8m0gw?si=wLkOeRmCXEGyodqw" frameborder="0" allowfullscreen></iframe>
+[Смотреть видео на YouTube](https://youtu.be/0kq99Y8m0gw?si=wLkOeRmCXEGyodqw)
 
 __Первая нормальная форма (1NF)__ - Отношение находится в 1NF, если значения всех его атрибутов атомарны (неделимы). 
 
